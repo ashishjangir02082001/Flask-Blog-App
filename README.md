@@ -15,8 +15,6 @@ support for *SQLAlchemy* to the application. The about page is basically showing
 ### *HOME SECTION:*:sunglasses:
 
 ![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png)
-<img src="https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png" width="500" height="500" style="display: block;
-    margin: 0 auto;">
 
 ### *CREATE POST SECTION:*:alien:
 
@@ -33,3 +31,15 @@ support for *SQLAlchemy* to the application. The about page is basically showing
 ### *USER LOGIN SECTION:*	:snowboarder:
 
 ![image](https://user-images.githubusercontent.com/61355945/148564134-f43d900f-20d7-47a6-9a20-3a16859473d3.png)
+
+### *SKILLS LEARNT:*
+- Creating Templates
+- Creating forms and taking user inputs
+- Creating database with Flask-SQLAlchemy
+- Creating Packages
+- Authenticating a user
+- Creating a user account and how to get a profile picture uploaded
+-  Create, Update and Delete Posts
+-  Pagination
+-  Email and Password Reset
+-  Customize Error Pages
