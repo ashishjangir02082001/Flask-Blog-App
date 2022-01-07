@@ -11,6 +11,13 @@ on his/her profile. All the users are registered and the data is saved into a da
 support for *SQLAlchemy* to the application. The about page is basically showing text about the website.
 
 
+### **Technologies Used:
+![download](https://user-images.githubusercontent.com/61355945/148594279-59ae5bb5-a325-4511-80aa-72d26850778c.png)
+![download](https://user-images.githubusercontent.com/61355945/148594330-5a2ed606-d0a1-4d9f-b145-73e8f3357cc6.jpg)
+![download](https://user-images.githubusercontent.com/61355945/148594378-911bd537-1983-4582-9410-b27d75945b93.png)
+![download](https://user-images.githubusercontent.com/61355945/148594414-7ea2457c-d30f-4752-95ae-dd43e89fadb2.jpg)
+
+
 ### **Below mentioned are some screenshots to give an overview of how the web app looks like:**
 
 ### *HOME SECTION:*:sunglasses:
