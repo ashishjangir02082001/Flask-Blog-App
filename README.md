@@ -11,6 +11,7 @@ on his/her profile. All the users are registered and the data is saved into a da
 support for *SQLAlchemy* to the application. The about page is basically showing text about the website.
 
 
+### **Below mentioned are some screenshots to give an overview of how the web app looks like:**
 
 ### *HOME SECTION:*:sunglasses:
 
