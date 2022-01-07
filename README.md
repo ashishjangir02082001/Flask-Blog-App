@@ -7,13 +7,13 @@ login user, a home page showing all the posts broken into multiple pages (pagina
 user can create a post by giving a title and providing the details in the content section of the create post page and simply upload by 
 clicking on the upload button. The user can set up an account by going on the register section at the top of the application and then would
 be redirected to the login page. The user can also upload his/her profile picture, but if not, then a default profile picture will be shown
-on his/her profile. All the users are registered and the data is saved into a database, created using Flask_SQLAlchemy extension that adds 
-support for SQLAlchemy to the application. The about page is basically showing text about the website.
+on his/her profile. All the users are registered and the data is saved into a database, created using *Flask_SQLAlchemy* extension that adds 
+support for *SQLAlchemy* to the application. The about page is basically showing text about the website.
 
 
 
 ### HOME SECTION:
-![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png)
+![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png#gh-dark-mode-only)
 
 ### CREATE POST SECTION:
 ![image](https://user-images.githubusercontent.com/61355945/148563182-5f640b5e-ea9e-40cc-a56d-48453e049313.png)
