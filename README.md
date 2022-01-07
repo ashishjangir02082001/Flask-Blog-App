@@ -15,7 +15,8 @@ support for *SQLAlchemy* to the application. The about page is basically showing
 ### *HOME SECTION:*:sunglasses:
 
 ![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png)
-<img src="https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png" width="500" height="500" style="text-align:center;">
+<img src="https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png" width="500" height="500" style="display: block;
+    margin: 0 auto;">
 
 ### *CREATE POST SECTION:*:alien:
 
