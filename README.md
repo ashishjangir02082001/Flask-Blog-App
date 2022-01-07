@@ -1,6 +1,6 @@
 # Flask-Blog-App
 
-### *OVERVIEW:*
+### *OVERVIEW:*:cowboy_hat_face:	
 
 This is a web-application developed using Flask framework of Python. This is a blogging website with features like register a new user,
 login user, a home page showing all the posts broken into multiple pages (pagination), user account page, a create post page wherein the
@@ -14,7 +14,7 @@ support for *SQLAlchemy* to the application. The about page is basically showing
 
 ### *HOME SECTION:*
 
-![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png#gh-dark-mode-only)
+![image](https://user-images.githubusercontent.com/61355945/148562708-4554a519-1b9a-4bba-be7c-5af28946ac9f.png)
 
 ### *CREATE POST SECTION:*
 
